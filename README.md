@@ -1,5 +1,6 @@
-# The rsHRF toolbox (v2.2): Additional features and analyses, and extended user documentation
+# <a href="https://github.com/compneuro-da/rsHRF/tree/update">The rsHRF toolbox (v2.2): Additional features and analyses, and extended user documentation</a>
 Presented at the OHBM 2020 annual meeting (virtual poster #1929)
+<a href="https://github.com/compneuro-da/rsHRF/tree/update">GitHub repo</a>!
 
 ## :triangular_flag_on_post: Where to Find My Poster and Me?
 
