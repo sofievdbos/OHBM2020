@@ -17,6 +17,6 @@ Presented at the OHBM 2020 annual meeting (virtual poster #1929)
 
   - Ping me on Twitter or Mattermost (@sofie_vdbos or <a href="https://mattermost.brainhack.org/brainhack/channels/hbm-rshrf_toolbox">hbm-rsHRF_toolbox</a>)! 
   
-  - Leave a "post-it" in the <a href="">Google Doc</a>! :incoming_envelope:
+  - Leave a "post-it" in the <a href="https://docs.google.com/document/d/1_FxovLEp4nj52ahuAvveOl0oHwtEPC4Yu_kRx-Bpx-Q/edit?usp=sharing">Google Doc</a>! :incoming_envelope:
     
 
