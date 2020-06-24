@@ -3,7 +3,7 @@ Presented at the OHBM 2020 annual meeting (virtual poster #1929)
 
 ## :triangular_flag_on_post: Where to Find My Poster and Me?
 
-* You can find my POSTER at the Software Demos (indicated by the :star2:yellow star:star2: on the image below)! 
+* You can find my <a href="./OHBM20_SVDB_interactive.pdf">POSTER</a> at the Software Demos (indicated by the :star2:yellow star:star2: on the image below)! 
 
 <img src="./OHBM2020_SoftwareDemos.png" width="700"/>
 
