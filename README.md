@@ -15,7 +15,7 @@ Presented at the OHBM 2020 annual meeting (virtual poster #1929)
     - **Slot 3: Tuesday, June 30**: 21.00H - New York | 2.00 + 1d - London | 9.00H + 1d - Hong Kong --> I won't be available. 
     - **Slot 4: Thursday, July 3**: 3.00H - New York | 8.00 - London | 12.00H - Hong Kong
 
-  - Ping me on Twitter or Mattermost (@sofie_vdbos or <a href="https://mattermost.brainhack.org/brainhack/channels/hbm-rshrf_toolbox">hbm-rsHRF_toolbox</a>)! 
+  - Ping me on Twitter or Mattermost (@sofie_vdbos or <a href="https://mattermost.brainhack.org/brainhack/channels/rshrf_toolbox">rsHRF_toolbox</a>)! 
   
   - Leave a "post-it" in the <a href="https://docs.google.com/document/d/1_FxovLEp4nj52ahuAvveOl0oHwtEPC4Yu_kRx-Bpx-Q/edit?usp=sharing">Google Doc</a>! :incoming_envelope:
     
